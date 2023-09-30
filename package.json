@@ -1,0 +1,12 @@
+{
+  "name": "jest_practice",
+  "version": "TDD basic concepts",
+  "description": "TDD bASIC cONCEPTS",
+  "main": "index.js",
+  "repository": "https://github.com/Wishmastering/jest-practice.git",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "node-notifier": "^10.0.1"
+  }
+}
