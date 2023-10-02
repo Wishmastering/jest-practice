@@ -5,6 +5,10 @@
   "main": "index.js",
   "repository": "https://github.com/Wishmastering/jest-practice.git",
   "license": "MIT",
+  "scripts": {
+    "test": "yarn jest --notify",
+    "test:watch": "yarn test --notify --watch"
+  },
   "devDependencies": {
     "jest": "^29.7.0",
     "node-notifier": "^10.0.1"
